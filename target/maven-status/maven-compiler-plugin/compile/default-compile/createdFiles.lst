@@ -1,0 +1,13 @@
+com\icai\practicas\controller\ProcessController$DataRequest.class
+com\icai\practicas\service\ProcessService.class
+com\icai\practicas\controller\ResponseHTMLGenerator.class
+com\icai\practicas\service\ProcessService$ProcessStep1Request.class
+com\icai\practicas\controller\CAController$GlobalErrorResponse.class
+com\icai\practicas\service\impl\ProcessServiceImpl.class
+com\icai\practicas\model\Telefono.class
+com\icai\practicas\controller\CAController.class
+com\icai\practicas\model\DNI.class
+com\icai\practicas\controller\ProcessController$DataResponse.class
+com\icai\practicas\controller\ProcessController.class
+com\icai\practicas\MainApplication.class
+com\icai\practicas\service\ProcessService$ProcessStep1Response.class

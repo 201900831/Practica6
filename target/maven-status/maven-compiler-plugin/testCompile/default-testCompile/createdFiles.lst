@@ -1,0 +1,6 @@
+com\icai\practicas\MainApplicationTests.class
+com\icai\practicas\model\TelefonoTest.class
+com\icai\practicas\controller\CAControllerTest.class
+com\icai\practicas\controller\ProcessControllerTest.class
+com\icai\practicas\model\DNITest.class
+com\icai\practicas\controller\ResponseHTMLGeneratorTest.class
